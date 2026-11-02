@@ -1,4 +1,4 @@
-# artificialwit-com
+# Artificial Wit
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,163 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-artificialwit-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://artificialwit.com/
+Artificial Wit builds AI-enabled layers for legacy enterprise systems, wrapping ERPs, CRMs, APIs and knowledge bases into a single MCP-ready AI platform. It offers an AI Assistant, procurement and asset operations, and a sales pipeline, all sharing one tenant for seamless integration and rapid deployment.
+
+**Areas:** AI · Enterprise · Legacy Systems · MCP · Integration
+
+## Artificial Wit on APIs.io
+
+Everything profiled for Artificial Wit is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/artificialwit-com/](https://apis.io/providers/artificialwit-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (17)
+
+- [Artificial Wit AI Agent API](https://apis.io/apis/artificialwit-com/artificialwit-com-ai-agent-api-api/) — The AI Agent API API from Artificial Wit — 1 operation(s) for ai agent api.
+- [Artificial Wit Auth API](https://apis.io/apis/artificialwit-com/artificialwit-com-auth-api/) — The auth API from Artificial Wit — 12 operation(s) for auth.
+- [Artificial Wit Chat API](https://apis.io/apis/artificialwit-com/artificialwit-com-chat-api/) — The chat API from Artificial Wit — 1 operation(s) for chat.
+- [Artificial Wit Embed API](https://apis.io/apis/artificialwit-com/artificialwit-com-embed-api/) — The embed API from Artificial Wit — 1 operation(s) for embed.
+- [Artificial Wit File API](https://apis.io/apis/artificialwit-com/artificialwit-com-file-api/) — The file API from Artificial Wit — 5 operation(s) for file.
+- [Artificial Wit Hub API](https://apis.io/apis/artificialwit-com/artificialwit-com-hub-api/) — The hub API from Artificial Wit — 1 operation(s) for hub.
+- [Artificial Wit MCP API](https://apis.io/apis/artificialwit-com/artificialwit-com-mcp-api/) — The mcp API from Artificial Wit — 3 operation(s) for mcp.
+- [Artificial Wit MCP OAUTH API](https://apis.io/apis/artificialwit-com/artificialwit-com-mcp-oauth-api/) — The mcp-oauth API from Artificial Wit — 7 operation(s) for mcp-oauth.
+- [Artificial Wit Members API](https://apis.io/apis/artificialwit-com/artificialwit-com-members-api/) — The members API from Artificial Wit — 2 operation(s) for members.
+- [Artificial Wit Messaging API](https://apis.io/apis/artificialwit-com/artificialwit-com-messaging-api/) — The messaging API from Artificial Wit — 14 operation(s) for messaging.
+- [Artificial Wit Meta API](https://apis.io/apis/artificialwit-com/artificialwit-com-meta-api/) — The meta API from Artificial Wit — 1 operation(s) for meta.
+- [Artificial Wit Payment API](https://apis.io/apis/artificialwit-com/artificialwit-com-payment-api/) — The payment API from Artificial Wit — 11 operation(s) for payment.
+- [Artificial Wit Rest API](https://apis.io/apis/artificialwit-com/artificialwit-com-rest-api/) — The rest API from Artificial Wit — 3 operation(s) for rest.
+- [Artificial Wit SCIM API](https://apis.io/apis/artificialwit-com/artificialwit-com-scim-api/) — The scim API from Artificial Wit — 5 operation(s) for scim.
+- [Artificial Wit Template API](https://apis.io/apis/artificialwit-com/artificialwit-com-template-api/) — The template API from Artificial Wit — 3 operation(s) for template.
+- [Artificial Wit Things API](https://apis.io/apis/artificialwit-com/artificialwit-com-things-api/) — The things API from Artificial Wit — 1 operation(s) for things.
+- [Artificial Wit Website API](https://apis.io/apis/artificialwit-com/artificialwit-com-website-api/) — The website API from Artificial Wit — 2 operation(s) for website.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Artificialwit Com Agentic Access](https://apis.io/agentic-access/artificialwit-com/artificialwit-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ChatRequest](https://apis.io/schemas/artificialwit-com/artificialwit-com-chat-request/)
+- [ChatResponse](https://apis.io/schemas/artificialwit-com/artificialwit-com-chat-response/)
+- [InviteMember](https://apis.io/schemas/artificialwit-com/artificialwit-com-invite-member/)
+- [ScimGroup](https://apis.io/schemas/artificialwit-com/artificialwit-com-scim-group/)
+- [ScimUser](https://apis.io/schemas/artificialwit-com/artificialwit-com-scim-user/)
+- [SendMessageRequest](https://apis.io/schemas/artificialwit-com/artificialwit-com-send-message-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Artificialwit Com Context](https://apis.io/jsonld/artificialwit-com/artificialwit-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Artificial Wit API Rules](https://apis.io/rules/artificialwit-com/artificialwit-com-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Artificialwit Com Authentication](https://apis.io/security/artificialwit-com/artificialwit-com-authentication/)
+- [Artificialwit Com Domain Security](https://apis.io/security/artificialwit-com/artificialwit-com-domain-security/)
+- [Artificialwit Com Trust Center](https://apis.io/security/artificialwit-com/artificialwit-com-trust-center/)
+- [Artificialwit Com Vulnerability Disclosure](https://apis.io/security/artificialwit-com/artificialwit-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Artificialwit Com Scopes](https://apis.io/scopes/artificialwit-com/artificialwit-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Artificialwit Com Plans Pricing](https://apis.io/plans/artificialwit-com/artificialwit-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Artificialwit Com Rate Limits](https://apis.io/rate-limits/artificialwit-com/artificialwit-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.artificialwit.com/)
+- [Documentation](https://www.artificialwit.com/docs)
+- [Getting started](https://www.artificialwit.com/docs)
+- [Pricing](https://www.artificialwit.com/pricing)
+- [Sign up](https://www.artificialwit.com/signup)
+- [Support](https://www.artificialwit.com/contact)
+- [Blog](https://www.artificialwit.com/blog)
+- [Security](https://www.artificialwit.com/security)
+- [Compliance](https://www.artificialwit.com/security)
+- [Terms of service](https://www.artificialwit.com/terms-of-service)
+- [Privacy policy](https://www.artificialwit.com/privacy-policy)
+- [GitHub](https://github.com/artificialwit)
+
+## API Evangelist rating
+
+**Kin Score 63.0** — strong · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 54.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 46.9 |
+| Access clarity | 88.9 |
+
+**Agent readiness 52.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 41.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/artificialwit-com/](https://apis.io/providers/artificialwit-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Artificial Wit: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/artificialwit-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
